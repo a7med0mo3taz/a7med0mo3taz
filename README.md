@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsawaf</h1>
 <h3 align="center">💻🔥 A Passionate Frontend Developer</h3>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center;">
   <img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" alt="centered image">
 </div>
 
