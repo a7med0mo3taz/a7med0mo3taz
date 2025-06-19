@@ -1,10 +1,3 @@
-<style>
-    div {
-      display: flex;
-      justify-content: center; 
-    }
-  </style>
-
 <h1 align="center">Hi 👋, I'm Ahmed Elsawaf</h1>
 <h3 align="center">💻🔥 A Passionate Frontend Developer</h3>
 <div style="display: flex; justify-content:center;">
