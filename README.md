@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsawaf</h1>
 <h3 align="center">💻🔥 A Passionate Frontend Developer</h3>
-<img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" style="display: block; margin: 50 auto;">
-
+<div style="text-align: center;">
+  <img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med0mo3taz&label=Profile%20views&color=0e75b6&style=flat" alt="a7med0mo3taz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med0mo3taz" alt="a7med0mo3taz" /></a> </p>
