@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsawaf</h1>
 <h3 align="center">💻🔥 A Passionate Frontend Developer</h3>
-<img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" style="display: block; margin: 0 auto;">
+<img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" style="display: block; margin: 50 auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med0mo3taz&label=Profile%20views&color=0e75b6&style=flat" alt="a7med0mo3taz" /> </p>
 
