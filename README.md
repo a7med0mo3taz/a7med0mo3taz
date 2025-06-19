@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" alt="a7med0mo3taz" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med0mo3taz&label=Profile%20views&color=0e75b6&style=flat" alt="a7med0mo3taz" /> </p>
-
 - 📫 How to reach me **aelsawaf50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
